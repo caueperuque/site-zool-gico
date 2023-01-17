@@ -4,11 +4,14 @@
     <head>
         <meta charset="UTF-8">
         <title>Aniamals Zoo</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
         <style>
 
          body {
 
-            font-family: sans-serif;
+            font-family: Montserrat, sans-serif;
 
          }
 
@@ -31,21 +34,41 @@
 
          }
 
-         .imagem {
+         img {
 
             display: inline-block;
-            margin-left: auto;
-            margin-right: auto;
+            width: 300px;
+            height: 200px;
 
          }
+
+        div {
+            margin-inline: 100px;
+            text-align: center;
+            width: auto;
+            height: 300px;
+            display: inline-block;
+            background-color: gray;
+            background-size: 3em;
+        }
 
 
         </style>
     </head>
 <!-- #Segundo passo criar corpo:  -->
     <body>
+
         <h1 id = "title"> Animals Zoo </h1>
-        <pre><blockquote class = "text">
+        <div class = "block">
+            <div>
+                <h2>   Relatório do Zoológico </h2>
+                <p>    Dados do relatório </p>
+            </div>
+            <div>
+                <h2>   Info do zoológico </h2>
+                <p>    *TEXTO* </p><br>
+            </div>
+        </div>
         <br>
         <br>
         <br>
@@ -55,42 +78,13 @@
         <br>
         <br>
         <br>
-        <h2>   Relatório do Zoológico </h2>
-        <p>    Dados do relatório </p>
         <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-    </blockquote></pre>
-        <img class = "imagem" src = "https://raw.githubusercontent.com/tryber/academia-de-logica/bf4ddcbc323c2f29e7c5ef5c0983d5c4cc1719c8/Dia2.2/img/zoologico.jpg?token=GHSAT0AAAAAAB5OX4CBO2DZDGRWQPE2DPA2Y6G6PPA" width="300px">
-        <img class = "imagem" src = "https://raw.githubusercontent.com/tryber/academia-de-logica/bf4ddcbc323c2f29e7c5ef5c0983d5c4cc1719c8/Dia2.2/img/mapa-zoo.jpeg?token=GHSAT0AAAAAAB5OX4CAO7C6X2VEAOLI6NRGY6G6KTA" width="300px"> 
-        <pre><blockquote class = "text">
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <h2>   Info do zoológico </h2>
-        <p>    *TEXTO* </p><br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br><br>
-        <br>
-        <br>
-    </blockquote></pre>
-        <h1> RODAPÉ </h1>
+        <img class = "imagem" src = "mapa-zoo.jpeg" >
+        <img class = "imagem" src = "zoologico.jpg" > 
+        
+        <footer>
+            <h1> RODAPÉ </h1>
+        </footer>
+
     </body>
 </html>
