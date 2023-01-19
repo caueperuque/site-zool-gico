@@ -1,0 +1,15 @@
+#REQUISITO 1: Criar cabeçalho para o navegador:
+<title><title>;
+
+
+#REQUISITO 2: Criar header-main com nome do Zoológico em azul e centralizado;
+
+
+#REQUISITO 3: Criar 2 blocos de texto centralizados um do lado do outro, o da esquerda chamado relatório do Zoológico
+com o relatório final feito, e o do lado direito um bloco igual ao da esquerda mas com texto qualquer.
+
+#REQUISITO 4: Seção de imagens (em baixo dos dois primeiros blocos) com duas fotos disponibilizadas, com título IMAGENS DO Zoológico;
+
+#REQUISITO 5: mais dois blocos iguais aos primeiros;
+
+#REQUISITO 6: Por fim o rodapé com nome do Zoológico e o telefone (qualquer um), e um link para o whatsapp;
