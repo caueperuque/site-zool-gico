@@ -8,8 +8,8 @@
 #REQUISITO 3: Criar 2 blocos de texto centralizados um do lado do outro, o da esquerda chamado relatório do Zoológico
 com o relatório final feito, e o do lado direito um bloco igual ao da esquerda mas com texto qualquer. X
 
-#REQUISITO 4: Seção de imagens (em baixo dos dois primeiros blocos) com duas fotos disponibilizadas, com título IMAGENS DO Zoológico;
+#REQUISITO 4: Seção de imagens (em baixo dos dois primeiros blocos) com duas fotos disponibilizadas, com título IMAGENS DO Zoológico; X
 
-#REQUISITO 5: mais dois blocos iguais aos primeiros;
+#REQUISITO 5: mais dois blocos iguais aos primeiros; X
 
 #REQUISITO 6: Por fim o rodapé com nome do Zoológico e o telefone (qualquer um), e um link para o whatsapp;
