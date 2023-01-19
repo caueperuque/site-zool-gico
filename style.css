@@ -46,5 +46,34 @@ body{
 .section-2{
     position: relative;
     left: 130px;
-    
+}
+
+#text-img{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+
+.images{
+    position: relative;
+    display: inline-block;
+    left: 12%;
+    padding: 0 ;
+}
+
+#map , #zoo-img{
+    width: 700px;
+}
+
+#zoo-img{
+    padding: 0 20px;
+    height:498px;
+    position: relative;
+    right: 20px;
+}
+
+#map{
+    position: relative;
+    right: 25px;
 }
