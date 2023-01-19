@@ -16,20 +16,35 @@ body{
     font-size: 20px;
 }
 
-.block-of-date{
+.block-date , .block-info{
     display: inline-block;
-    background-color: lightgray;
-    width: 500px;
+    background-color: rgb(218, 218, 218);
     height: 200px;
-    padding: 5% 0 5% 5%
+    padding: 100px ;
+    margin: 1px 60px;
+    line-height: 10px;
 }
 
-.date{
+.date , .text-info{
     margin: 20px 0;
     font-size: 15px;
     line-height: 25px;
 }
 
-.header-of-date{
+.block-date{
+    float: left;
+}
 
+;.block-info{
+    float: right;
+}
+
+.block-date , .block-info{
+    width: 25%;
+}
+
+.section-2{
+    position: relative;
+    left: 130px;
+    
 }
