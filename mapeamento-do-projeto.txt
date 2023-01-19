@@ -1,8 +1,8 @@
 #REQUISITO 1: Criar cabeçalho para o navegador:
-<title><title>;
+<title><title>; X
 
 
-#REQUISITO 2: Criar header-main com nome do Zoológico em azul e centralizado;
+#REQUISITO 2: Criar header-main com nome do Zoológico em azul e centralizado; X
 
 
 #REQUISITO 3: Criar 2 blocos de texto centralizados um do lado do outro, o da esquerda chamado relatório do Zoológico
